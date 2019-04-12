@@ -28,12 +28,12 @@ noise = np.random.randint(low=-5, high=5, size=input.shape)
 Folgende Zeilen vertauschen:
 ```python 
 import matplotlib.pyplot as plt
-matplotlib.use('TkAgg')` 
+matplotlib.use('TkAgg') 
 ``` 
 
 #### Seite 212
 
-Aktualisierter Code: `rain_predict`→`train_predict`
+Aktualisierter Code: `rain_predict` → `train_predict`
 
 #### Seite 370
 
