@@ -12,5 +12,5 @@ Seite | Kurzbeschreibung
 147|aktualisierter Text: *<i>ersetzen Sie die tf.Variable() a, b, c und d durch tf.placeholder():</i>*  
 157| Anpassung des Parameters *noise* in: `noise = np.random.randint(low=-5, high=5, size=input.shape)` Die Zeilen `import matplotlib.pyplot as plt` und `matplotlib.use('TkAgg')` müssen vertauscht werden
 212|Aktualisierter Code: `rain_predict`→`train_predict`
-370| Aktualisierter Code: `eval_metric_ops = {"accuracy": eval_accuracy } print(eval_accuracy)`
+370| Aktualisierter Code: `eval_metric_ops = {"accuracy": eval_accuracy } </br> print(eval_accuracy)`
 376|Die Zeilen `num_epochs = None` und `num_epochs = 2` bitte löschen 
