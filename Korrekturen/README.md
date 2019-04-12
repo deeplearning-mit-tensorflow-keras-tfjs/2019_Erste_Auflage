@@ -6,11 +6,52 @@ Korrekturen.
 An dieser Stelle möchten wie Sie als Leser/Leserin unseres Buches dazu ermutigen, uns gefundene Fehler zu melden, so dass wir diese in besagtes Dokument aufnehmen und in eventuellen nächsten Auflagen berücksichtigen 
 können. Vielen Dank dafür!
 
-Seite | Kurzbeschreibung
-------|------------------
-143|Im Listing 5.1 : `init = tf.global_variables_initializer()`
-147|aktualisierter Text: *<i>ersetzen Sie die tf.Variable() a, b, c und d durch tf.placeholder():</i>*  
-157| Anpassung des Parameters *noise* in: `noise = np.random.randint(low=-5, high=5, size=input.shape)` Die Zeilen `import matplotlib.pyplot as plt` und `matplotlib.use('TkAgg')` müssen vertauscht werden
-212|Aktualisierter Code: `rain_predict`→`train_predict`
-370| Aktualisierter Code: `eval_metric_ops = {"accuracy": eval_accuracy } </br> print(eval_accuracy)`
-376|Die Zeilen `num_epochs = None` und `num_epochs = 2` bitte löschen 
+#### Seite 143 
+
+Im Listing 5.1 : 
+```python 
+init = tf.global_variables_initializer()
+``` 
+
+#### Seite 147 
+
+Aktualisierter Text: *<i>ersetzen Sie die tf.Variable() a, b, c und d durch tf.placeholder():</i>*  
+
+#### Seite 157 
+
+Anpassung des Parameters *noise* in: 
+
+```python 
+noise = np.random.randint(low=-5, high=5, size=input.shape)
+``` 
+
+Folgende Zeilen vertauschen:
+```python 
+import matplotlib.pyplot as plt
+matplotlib.use('TkAgg')` 
+``` 
+
+#### Seite 212
+
+Aktualisierter Code: `rain_predict`→`train_predict`
+
+#### Seite 370
+
+Aktualisierter Code:
+
+```python 
+eval_metric_ops = {"accuracy": eval_accuracy } 
+print(eval_accuracy)
+```
+
+#### Seite 376
+
+Folgende Zeilen löschen: 
+```python 
+num_epochs = None
+``` 
+```python 
+
+num_epochs = 2
+``` 
+
