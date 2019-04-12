@@ -70,7 +70,7 @@ Seite | Kurzbeschreibung | Dateipfad | Hinweise
 242|Keras-Metriken mit Bokeh darstellen|[chap\_7/bokeh/keras\_history\_bokeh.py](chap\_7/bokeh/keras\_history\_bokeh.py)|Installieren Sie das Python Package bokeh `pip install bokeh` 
 244|Visualisierung von CNNs mit Quiver|[chap\_7/bokeh/quiver\_test.py](chap\_7/bokeh/keras\_history\_bokeh.py)|Bitte legen Sie einen leeren Ordner namens *tmp* im aktuellen Verzeichnis an
 248|Projekt KeiVi|[chap\_7/keivi/](chap\_7/keivi/)|Installieren Sie die *node\_modules* für das Projet mit `npm install`
-248|Benutzung von ConX|[chap\_7/conx/VGG\_19\_with\_ConX.ipynb](chap\_7/keivi/VGG\_19\_with\_ConX.ipynb)|Jupyter Notebook starten `jupyter notebook` 
+248|Benutzung von ConX|[chap\_7/conx/VGG\_19\_with\_ConX.ipynb](chap\_7/keivi/VGG\_19\_with\_ConX.ipynb)|Jupyter Notebook starten <br>`jupyter notebook` 
 
 ## Kapitel 8: TensorFlow.js
 
