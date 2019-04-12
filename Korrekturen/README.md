@@ -8,8 +8,9 @@ können. Vielen Dank dafür!
 
 Seite | Kurzbeschreibung
 ------|------------------
-143|Im Listing 5.1 : `init = tf.global\_variables\_initializer()`
+143|Im Listing 5.1 : `init = tf.global_variables_initializer()`
 147|aktualisierter Text: *<i>ersetzen Sie die tf.Variable() a, b, c und d durch tf.placeholder():</i>*  
 157| Anpassung des Parameters *noise* in: `noise = np.random.randint(low=-5, high=5, size=input.shape)` Die Zeilen `import matplotlib.pyplot as plt` und `matplotlib.use('TkAgg')` müssen vertauscht werden
 212|Aktualisierter Code: `rain_predict`→`train_predict`
-376|Die Zeilen `num\_epochs = None` und `num\_epochs = 2` bitte löschen 
+370| Aktualisierter Code: `eval_metric_ops = {"accuracy": eval_accuracy } print(eval_accuracy)`
+376|Die Zeilen `num_epochs = None` und `num_epochs = 2` bitte löschen 
