@@ -10,7 +10,7 @@ Seite | Kurzbeschreibung | Dateipfad | Hinweise
 
 Seite | Kurzbeschreibung | Dateipfad | Hinweise
 ------|------------------|-----------|---------
-113 |Beispiele von Funktionalitäten von NumPy | [chap\_4/numpy\_examples.py](chap\_4/numpy\_examples.py) | Installieren Sie die zwei Python-Packages `pip install tabulate wget`
+113 |Beispiele von Funktionalitäten von NumPy | [chap\_4/numpy\_examples.py](chap\_4/numpy\_examples.py) | Installieren Sie die zwei Python-Packages </br> `pip install tabulate wget`
 117|Visualisierung vom Olivetti-Dataset|[chap\_4/olivetti\_dataset.py](chap\_4/olivetti\_dataset.py)
 118|Normalisierung von Daten mit scikit-learn|[chap\_4/normalize\_iris\_dataset.py](chap\_4/normalize\_iris\_dataset.py)
 122|Lineares Regressionsmodell mit scikit-learn|[chap\_4/linear\_regression.py](chap\_4/linear\_regression.py)
@@ -67,7 +67,7 @@ Seite | Kurzbeschreibung | Dateipfad | Hinweise
 234|Keras: Benutzung von plot\_model()|[chap\_7/plot\_model/plot\_model\_example.py](chap\_7/plot\_model/plot\_model\_example.py)|
 237|Keras/Tensorboard: Benutzung vom TensorBoard Debugger|[chap\_7/tensorboard/keras\_tensorboard\_debugger.py](chap\_7/tensorboard/keras\_tensorboard\_debugger.py)|Im Vorfeld TensorBoard starten:`tensorboard --logdir=logs --debugger\_port 12345`<br><br>**Wichtig:** Unter Windows werden Sie leider diese Fehlermeldung bekommen, weil das Protokol zwischen TensorBoard und TensorFlow noch nicht implementiert ist`grpc:// debug URL scheme is not implemented on Windows yet.` Siehe [https://github.com/tensorflow/tensorflow/issues/17933](https://github.com/tensorflow/tensorflow/issues/17933)</br></br>**Wichtig:** Wenn Keras von Keras.io benutzt wird, kann `K.set_session()` benutzt werden. Wenn Keras von TensorFlow benutzt wird, muss folgende Zeile hinzugefügt werden: `import tensorflow.keras.backend as K`
 238|Aktivierungen visualisieren|[chap\_7/activations/activations\_vis.py](chap\_7/activations/activations\_vis.py)|Wegen Bug in Keras von TensorFlow muss hier die Keras von keras.io benutzt werden 
-242|Keras-Metriken mit Bokeh darstellen|[chap\_7/bokeh/keras\_history\_bokeh.py](chap\_7/bokeh/keras\_history\_bokeh.py)|Installieren Sie das Python Package bokeh `pip install bokeh` 
+242|Keras-Metriken mit Bokeh darstellen|[chap\_7/bokeh/keras\_history\_bokeh.py](chap\_7/bokeh/keras\_history\_bokeh.py)|Installieren Sie das Python Package *bokeh* </br> `pip install bokeh` 
 244|Visualisierung von CNNs mit Quiver|[chap\_7/bokeh/quiver\_test.py](chap\_7/bokeh/keras\_history\_bokeh.py)|Bitte legen Sie einen leeren Ordner namens *tmp* im aktuellen Verzeichnis an
 248|Projekt KeiVi|[chap\_7/keivi/](chap\_7/keivi/)|Installieren Sie die *node\_modules* für das Projet mit `npm install`
 248|Benutzung von ConX|[chap\_7/conx/VGG\_19\_with\_ConX.ipynb](chap\_7/keivi/VGG\_19\_with\_ConX.ipynb)|Jupyter Notebook starten <br>`jupyter notebook` 
