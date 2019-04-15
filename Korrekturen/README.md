@@ -1,9 +1,9 @@
 ## 📝Korrekturen
 
-Trotz sorgfältigem Redigieren und Prüfung lassen sich Fehler nie ganz vermeiden. Daher bietet wir Ihnen in diesem Dokument 
+Trotz sorgfältigem Redigieren und Prüfung lassen sich Fehler nie ganz vermeiden. Daher bieten wir Ihnen in diesem Dokument 
 Korrekturen.
 <br>
-An dieser Stelle möchten wie Sie als Leser/Leserin unseres Buches dazu ermutigen, uns über den Verlag gefundene Fehler zu melden, so dass wir diese in besagtes Dokument aufnehmen und in eventuellen nächsten Auflagen berücksichtigen 
+An dieser Stelle möchten wie Sie als Leser/Leserin unseres Buches dazu ermutigen, uns über den Verlag gefundene Fehler zu melden, so dass wir diese in dieses Dokument aufnehmen und in eventuellen nächsten Auflagen berücksichtigen 
 können. Vielen Dank dafür!
 
 #### Seite 143 
