@@ -6,6 +6,11 @@ Korrekturen.
 An dieser Stelle möchten wie Sie als Leser/Leserin unseres Buches dazu ermutigen, uns über den Verlag gefundene Fehler zu melden, so dass wir diese in dieses Dokument aufnehmen und in eventuellen nächsten Auflagen berücksichtigen 
 können. Vielen Dank dafür!
 
+
+#### Seite 72
+
+Hinweis: statt der Datei https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data, die kein Header für die Spaltennamen (*<i>sepal length,sepal width,petal length,petal width,species</i>*) beinhaltet, sollte die Datei iris.csv benutzt werden. 
+
 #### Seite 143 
 
 Im Listing 5.1 : 
