@@ -9,7 +9,7 @@ können. Vielen Dank dafür!
 
 #### Seite 72
 
-Hinweis: statt der Datei https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data, die kein Header für die Spaltennamen (*<i>sepal length,sepal width,petal length,petal width,species</i>*) beinhaltet, sollte die Datei iris.csv benutzt werden. 
+Hinweis: statt der Datei https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data, die kein Header für die Spaltennamen (*<i>sepal length,sepal width,petal length,petal width,species</i>*) beinhaltet, sollte die Datei iris.csv benutzt werden. <small>*(Dank an Christian)*</small>
 
 #### Seite 143 
 
