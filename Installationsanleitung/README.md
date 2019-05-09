@@ -2,6 +2,8 @@
 
 Zum schnellen Einstieg empfehlen wir die Python-Installation mit Anaconda: https://www.anaconda.com/distribution/
 
+NB: Unter Windows müssen Sie, nachdem Anaconda etwa unter C:\Users\<IHRNAME>\Anaconda3 installiert wurde, C:\Users\<IHRNAME>\Anaconda3\condabin zu Ihrer Umgebungsvariable PATH hinzufügen. <br>
+
 #### Organisation der Arbeitsumgebung
 Wir empfehlen Ihnen ein Projektverzeichnis in Ihrem HOME-Verzeichnis anzulegen, etwa <i>deeplearning_buch</i>:<br>
 ```mkdir deeplearning_buch```
@@ -11,6 +13,7 @@ Dann wechseln Sie zu diesem Verzeichnis und können dort die Beispiele vom Buch 
 #### Python-Installation mit Anaconda
 Erzeugen Sie eine Umgebung namens <i>dl_env</i> mit der Python Version 3.6:<br>
 ```conda create -n dl_env python=3.6```
+
 
 Nachdem die Umgebung erzeugt wurde, muss sie nun aktiviert werden:<br>
 ```source activate dl_env```
