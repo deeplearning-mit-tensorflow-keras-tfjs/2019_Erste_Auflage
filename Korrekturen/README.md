@@ -38,6 +38,19 @@ import matplotlib.pyplot as plt
 matplotlib.use('TkAgg') 
 ``` 
 
+#### Seite 160
+
+Um den Graphen vom Block 5.6.4 darzustellen, vergewissern Sie sich, dass Sie nach der Zeile 
+
+```python 
+print("Vorhersage Wert für w: " + str(weight_value))   
+``` 
+folgendes hinzufügen:
+``` 
+plt.show(block=True)
+```  
+*(Dank an Christian)*
+
 #### Seite 212
 
 Aktualisierter Code: `rain_predict` → `train_predict`
