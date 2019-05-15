@@ -61,7 +61,7 @@ Aktualisierter Code: `train_redict` → `train_predict`
 Aktualisierter Code:
 
 ```python 
-eval_metric_ops = {"accuracy": eval_accuracy } 
+eval_metric_ops = {"accuracy": eval_accuracy} 
 print(eval_accuracy)
 ```
 
