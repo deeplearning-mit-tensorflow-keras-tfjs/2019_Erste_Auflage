@@ -54,7 +54,7 @@ plt.show(block=True)
 
 #### Seite 212
 
-Aktualisierter Code: `rain_predict` → `train_predict`
+Aktualisierter Code: `train_redict` → `train_predict`
 
 #### Seite 370
 
