@@ -21,8 +21,9 @@ init = tf.global_variables_initializer()
 ``` 
 
 #### Seite 147 
-
-Aktualisierter Text: *<i>ersetzen Sie die tf.Variable() a, b, c und d durch tf.placeholder():</i>*  
+Ersetzen Sie ```tf.constant()``` durch``` tf.Variable()```in dem Textausschnitt: 
+<i>Nehmen Sie unseren Beispielgraphen aus Abbildung 5.11, und ersetzen Sie die tf.Variable() a, b, c und d durch tf.placeholder():</i>
+ 
 
 #### Seite 157 
 
