@@ -56,7 +56,7 @@ plt.show(block=True)
 
 Aktualisierter Code: `train_redict` → `train_predict`
 
-#### Seite 370
+#### Seite 368
 
 Aktualisierter Code:
 
