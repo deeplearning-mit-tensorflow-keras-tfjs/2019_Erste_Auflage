@@ -102,7 +102,7 @@ Seite | Kurzbeschreibung | Dateipfad | Hinweise
 346|Projekt 4: VGG-19 mit Keras benutzen|[chap\_9/4\_vgg\_19\_keras](chap\_9/4\_vgg\_19\_keras)|Platzieren Sie Ihre Bilder in den Ordner *./samples* 
 364|Projekt 5: Fashion-MNIST mit TensorFlow-Estimators|[chap\_9/5\_fashion\_mnist\_estimators\_tf](chap\_9/5\_fashion\_mnist\_estimators\_tf)|Platzieren Sie Ihre Bilder in den Ordner*./samples* 
 364|Projekt 6: Stimmungsanalyse mit Keras|[chap\_9/6\_sentiment\_keras/sentiment.py](chap\_9/6\_sentiment\_keras/sentiment.py)|Installieren Sie den TensorFlow.js Konverter:`pip install tensorflowjs`
-384|Projekt 7: Stimmungsanalyse mit TensorFlow.js|[chap\_9/7\_sentiment\_tfjs/](chap\_9/7\_sentiment\_tfjs)|Bitte den generierten Ordner */tfjs\_sentiment\_model* von 6\_sentiment\_keras kopieren, um das TensorFlow.js Modell benutzen zu können das Modell. 
+384|Projekt 7: Stimmungsanalyse mit TensorFlow.js|[chap\_9/7\_sentiment\_tfjs/](chap\_9/7\_sentiment\_tfjs)|Bitte den generierten Ordner */tfjs\_sentiment\_model* von 6\_sentiment\_keras kopieren, um das TensorFlow.js Modell benutzen zu können. 
 
 ## Kapitel 10: Ausblick
 Seite | Kurzbeschreibung | Dateipfad | Hinweise
