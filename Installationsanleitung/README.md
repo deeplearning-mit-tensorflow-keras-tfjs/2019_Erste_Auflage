@@ -1,6 +1,6 @@
 ## 📝Installationsanleitung
 
-⚠️ Bitte beachten Sie, dass die Beispiele vom Buch mit der Version 1.x von TensorFlow ausführbar sind! Hierbei müssen Sie beim Installation von TensorFlow auf den Versionszusatz achten, wie unten aufführt (```pip install tensorflow==1.12.0``` bzw. ```pip install tensorflow-gpu==1.12.0```).
+⚠️ Bitte beachten Sie, dass die Beispiele vom Buch mit der Version 1.x von TensorFlow ausführbar sind! Hierbei müssen Sie beim Installation von TensorFlow auf den Versionszusatz achten, wie unten aufführt (```pip install tensorflow==1.13.2``` bzw. ```pip install tensorflow-gpu==1.13.2```).
 
 Zum schnellen Einstieg empfehlen wir die Python-Installation mit Anaconda: https://www.anaconda.com/distribution/
 
@@ -23,7 +23,7 @@ Nachdem die Umgebung erzeugt wurde, muss sie nun aktiviert werden:<br>
 Um alle Beispiele der ersten Kapitel des Buches zu bearbeiten, empfehlen wir Ihnen in einer einzigen Aktion folgende Pakete zu installieren:
 
 ```conda install numpy scipy pandas scikit-learn matplotlib```<br>
-```conda install tensorflow=1.12.0```<br>
+```conda install tensorflow==1.13.2```<br>
 ```conda install keras```<br>
 ```conda install tensorflowjs```<br>
 
