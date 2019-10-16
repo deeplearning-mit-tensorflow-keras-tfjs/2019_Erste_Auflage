@@ -21,7 +21,7 @@ Nachdem die Umgebung erzeugt wurde, muss sie nun aktiviert werden:<br>
 Um alle Beispiele der ersten Kapitel des Buches zu bearbeiten, empfehlen wir Ihnen in einer einzigen Aktion folgende Pakete zu installieren:
 
 ```conda install numpy scipy pandas scikit-learn matplotlib```<br>
-```conda install tensorflow```<br>
+```conda install tensorflow=1.12.0```<br>
 ```conda install keras```<br>
 ```conda install tensorflowjs```<br>
 
