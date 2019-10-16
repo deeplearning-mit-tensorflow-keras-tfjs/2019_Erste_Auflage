@@ -52,6 +52,12 @@ plt.show(block=True)
 ```  
 *(Dank an Christian)*
 
+#### Seite 178 
+Die Zeilen ```train_labels = data.train.labels``` und ```eval_labels = data.train.labels``` sind überflüssig und sollen ignoriert werden.
+
+*(Dank an den/die Amazon Rezensenten/Rezensentin)*
+
+
 #### Seite 212
 
 Aktualisierter Code: `train_redict` → `train_predict`
