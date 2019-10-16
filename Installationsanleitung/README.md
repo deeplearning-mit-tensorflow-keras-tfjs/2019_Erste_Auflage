@@ -1,5 +1,7 @@
 ## 📝Installationsanleitung
 
+⚠️ Bitte beachten Sie, dass die Beispiele vom Buch mit der Version 1.x von TensorFlow ausführbar sind! Hierbei müssen Sie beim Installation von TensorFlow auf den Versionszusatz achten, wie unten aufführt (```pip install tensorflow==1.12.0``` bzw. ```pip install tensorflow-gpu==1.12.0```).
+
 Zum schnellen Einstieg empfehlen wir die Python-Installation mit Anaconda: https://www.anaconda.com/distribution/
 
 NB: Unter Windows müssen Sie, nachdem Anaconda etwa unter C:\Users\<IHRNAME>\Anaconda3 installiert wurde, C:\Users\<IHRNAME>\Anaconda3\condabin zu Ihrer Umgebungsvariable PATH hinzufügen. <br>
