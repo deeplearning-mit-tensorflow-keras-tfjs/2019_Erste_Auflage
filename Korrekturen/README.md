@@ -57,6 +57,11 @@ Die Zeilen ```train_labels = data.train.labels``` und ```eval_labels = data.trai
 
 *(Dank an den/die Amazon Rezensenten/Rezensentin)*
 
+#### Seite 196 
+```evaluation_results = model.evaluate(input_test_data, output_test_data)``` 
+ersetzen durch 
+```evaluation_results = model.evaluate(input_test_data, output_test_data)``` 
+
 
 #### Seite 212
 
