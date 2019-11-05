@@ -59,7 +59,9 @@ Die Zeilen ```train_labels = data.train.labels``` und ```eval_labels = data.trai
 
 #### Seite 196 
 ```evaluation_results = model.evaluate(input_test_data, output_test_data)``` 
+
 ersetzen durch 
+
 ```evaluation_results = model.evaluate(input_test_data, output_test_data)``` 
 
 
