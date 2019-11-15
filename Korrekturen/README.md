@@ -6,6 +6,17 @@ Korrekturen.
 An dieser Stelle möchten wie Sie als Leser/Leserin unseres Buches dazu ermutigen, uns über den Verlag gefundene Fehler zu melden, so dass wir diese in dieses Dokument aufnehmen und in eventuellen nächsten Auflagen berücksichtigen 
 können. Vielen Dank dafür!
 
+#### Seite 60
+
+"anschließende Aktivierungsfunktion 𝜑(x)"
+
+ersetzen durch
+
+
+"anschließende Aktivierungsfunktion 𝜑(𝛼)"
+
+
+*(Dank an den aufmerksamen Leser aus Hamburg)*
 
 #### Seite 72
 
