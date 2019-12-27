@@ -25,7 +25,7 @@ Um alle Beispiele der ersten Kapitel des Buches zu bearbeiten, empfehlen wir Ihn
 ```conda install numpy scipy pandas scikit-learn matplotlib```<br>
 ```conda install tensorflow==1.13.1```<br>
 ```conda install keras```<br>
-```pip install tensorflowjs==1.0.1```  <br> *(Dank an Andreas)*
+```pip install tensorflowjs==1.0.1```  <br><br> *(Dank an Andreas)*
 
 Ein Vorteil von conda ist es, dass beim Installieren eines Pakets nicht nur dieses sondern auch alle vom ihm benötigten Pakete mitinstalliert werden.
 
