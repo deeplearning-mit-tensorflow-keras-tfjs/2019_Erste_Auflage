@@ -35,8 +35,8 @@ Wenn Sie die Liste alle definierten Umgebungen bekommen möchten, können Sie fo
 
 #### Starten der Umgebung
 Jedesmal, wenn Sie mit dem Buch arbeiten möchten, empfiehlt es sich zum Ihrer Arbeitsverzeichnis zu wechseln und die Python-Umgebung <i>dl_env</i> im Terminal zu aktivieren mit:<br>
-```source activate dl_env```
+```conda activate dl_env```
 
 #### Beendigung der Arbeiten 
 Nach Beendigung Ihrer Arbeiten sollten Sie die <i>dl_env</i> Umgebung deaktivieren:<br>
-```source deactivate dl_env```
+```conda deactivate```
