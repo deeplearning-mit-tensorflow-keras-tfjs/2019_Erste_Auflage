@@ -18,14 +18,14 @@ Erzeugen Sie eine Umgebung namens <i>dl_env</i> mit der Python Version 3.6:<br>
 
 
 Nachdem die Umgebung erzeugt wurde, muss sie nun aktiviert werden:<br>
-```source activate dl_env```
+```conda activate dl_env```
 
 Um alle Beispiele der ersten Kapitel des Buches zu bearbeiten, empfehlen wir Ihnen in einer einzigen Aktion folgende Pakete zu installieren:
 
 ```conda install numpy scipy pandas scikit-learn matplotlib```<br>
-```conda install tensorflow==1.13.2```<br>
+```conda install tensorflow==1.13.1```<br>
 ```conda install keras```<br>
-```conda install tensorflowjs```<br>
+```pip install tensorflowjs==1.0.1```  <br> *(Dank an Andreas)*
 
 Ein Vorteil von conda ist es, dass beim Installieren eines Pakets nicht nur dieses sondern auch alle vom ihm benötigten Pakete mitinstalliert werden.
 
