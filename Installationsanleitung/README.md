@@ -1,6 +1,6 @@
 ## 📝Installationsanleitung
 
-⚠️ Bitte beachten Sie, dass die Beispiele vom Buch mit der Version 1.x von TensorFlow ausführbar sind! Hierbei müssen Sie beim Installation von TensorFlow auf den Versionszusatz achten, wie unten aufführt (```pip install tensorflow==1.13.2``` bzw. ```pip install tensorflow-gpu==1.13.2```).
+⚠️ Bitte beachten Sie, dass die Beispiele vom Buch mit der Version 1.x von TensorFlow ausführbar sind! Hierbei müssen Sie bei der Installation von TensorFlow auf den Versionszusatz achten, wie unten aufgeführt (```pip install tensorflow==1.13.2``` bzw. ```pip install tensorflow-gpu==1.13.2```).
 
 Zum schnellen Einstieg empfehlen wir die Python-Installation mit Anaconda: https://www.anaconda.com/distribution/
 
@@ -30,11 +30,11 @@ Um alle Beispiele der ersten Kapitel des Buches zu bearbeiten, empfehlen wir Ihn
 Ein Vorteil von conda ist es, dass beim Installieren eines Pakets nicht nur dieses sondern auch alle vom ihm benötigten Pakete mitinstalliert werden.
 
 
-Wenn Sie die Liste alle definierten Umgebungen bekommen möchten, können Sie folgendes Kommando ausführen:<br>
+Wenn Sie die Liste aller definierten Umgebungen bekommen möchten, können Sie folgendes Kommando ausführen:<br>
 ```conda env list```
 
 #### Starten der Umgebung
-Jedesmal, wenn Sie mit dem Buch arbeiten möchten, empfiehlt es sich zum Ihrer Arbeitsverzeichnis zu wechseln und die Python-Umgebung <i>dl_env</i> im Terminal zu aktivieren mit:<br>
+Jedesmal, wenn Sie mit dem Buch arbeiten möchten, empfiehlt es sich zu Ihrem Arbeitsverzeichnis zu wechseln und die Python-Umgebung <i>dl_env</i> im Terminal zu aktivieren mit:<br>
 ```conda activate dl_env```
 
 #### Beendigung der Arbeiten 

@@ -6,6 +6,14 @@ Korrekturen.
 An dieser Stelle möchten wie Sie als Leser/Leserin unseres Buches dazu ermutigen, uns über den Verlag gefundene Fehler zu melden, so dass wir diese in dieses Dokument aufnehmen und in eventuellen nächsten Auflagen berücksichtigen 
 können. Vielen Dank dafür!
 
+#### Seite 59 Fußnote 3
+
+"den wir es später betrachten werden"
+
+ersetzen durch
+
+"den wir erst später betrachten werden"
+
 #### Seite 60
 
 "anschließende Aktivierungsfunktion 𝜑(x)"
