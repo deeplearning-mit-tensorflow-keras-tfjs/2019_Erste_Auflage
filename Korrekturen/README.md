@@ -34,6 +34,38 @@ Hinweis: statt der Datei https://archive.ics.uci.edu/ml/machine-learning-databas
 
 *(Dank an Christian)*
 
+#### Seite 78
+
+"accuracy = (TP + FN) / (TP + FP + TN + FN)"
+
+ersetzen durch
+
+"accuracy = (TP + TN) / (TP + FP + TN + FN)"
+
+*(Dank an einen aufmerksamen Leser)*
+
+#### Seite 89
+
+"werden Sie bestimmt früh oder später damit konfrontiert sein."
+
+ersetzen durch
+
+"werdenSie bestimmt früher oder später damit konfrontiert sein."
+
+
+*(Dank an einen aufmerksamen Leser)*
+
+#### Seite 90
+
+"denken Sie an einem Sensor"
+
+ersetzen durch
+
+"denken Sie an einen Sensor"
+
+
+*(Dank an einen aufmerksamen Leser)*
+
 #### Seite 143 
 
 Im Listing 5.1 : 
