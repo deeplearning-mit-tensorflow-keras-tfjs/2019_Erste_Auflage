@@ -34,7 +34,7 @@ Wenn Sie die Liste aller definierten Umgebungen bekommen möchten, können Sie f
 ```conda env list```
 
 #### Starten der Umgebung
-Jedesmal, wenn Sie mit dem Buch arbeiten möchten, empfiehlt es sich zum Ihrem Arbeitsverzeichnis zu wechseln und die Python-Umgebung <i>dl_env</i> im Terminal zu aktivieren mit:<br>
+Jedesmal, wenn Sie mit dem Buch arbeiten möchten, empfiehlt es sich zu Ihrem Arbeitsverzeichnis zu wechseln und die Python-Umgebung <i>dl_env</i> im Terminal zu aktivieren mit:<br>
 ```conda activate dl_env```
 
 #### Beendigung der Arbeiten 
