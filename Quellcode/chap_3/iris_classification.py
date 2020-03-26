@@ -18,7 +18,7 @@ data_train.loc[data_train['species']=='Iris-virginica', 'species']=2
 data_train = data_train.apply(pd.to_numeric)
 
 # Der eingelesene Datenset wird als Matrix dargestellt
-data_train_array = data_train.as_matrix()
+data_train_array = data_train.to_numpy()
 
 # Das Datenset wird in zwei separate Kategorie gespaltet: Testdaten und Trainingsdaten. 
 # 80% der Daten werden zum Trainieren und 20% zum Testen des Modells verwendet. 
