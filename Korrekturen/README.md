@@ -43,6 +43,18 @@ Hinweis: statt der Datei https://archive.ics.uci.edu/ml/machine-learning-databas
 
 *(Dank an Christian)*
 
+#### Seite 74
+
+"data_train_array = data_train.as_matrix()"
+
+ersetzen durch
+
+"data_train_array = data_train.values"
+oder
+"data_train_array = data_train.to_numpy()"
+
+*(Dank an Leonhard)*
+
 #### Seite 78
 
 "accuracy = (TP + FN) / (TP + FP + TN + FN)"
